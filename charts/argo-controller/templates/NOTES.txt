@@ -1,5 +1,0 @@
-**********************
-** CONGRATULATIONS! **
-**********************
-
-The Argo Controller has been installed.
