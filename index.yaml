@@ -3,6 +3,16 @@ entries:
   argo-controller:
   - apiVersion: v2
     appVersion: 0.0.1
+    created: "2025-02-25T22:44:02.307743651Z"
+    description: A Helm chart for Argo Controller.
+    digest: 24395e8b1cfe6f3ed8a8d55b5116a789daf39ac57083ebf5288df9d7496ec8c2
+    name: argo-controller
+    type: application
+    urls:
+    - https://github.com/MichaelPatsula/argo-controller-test/releases/download/argo-controller-0.0.6/argo-controller-0.0.6.tgz
+    version: 0.0.6
+  - apiVersion: v2
+    appVersion: 0.0.1
     created: "2025-02-25T22:41:29.735605722Z"
     description: A Helm chart for Argo Controller.
     digest: 1ac8518da64cd42c7cb80362712189f18d95c710b6d0ad38ba5fb1d27a9ed899
@@ -21,4 +31,4 @@ entries:
     urls:
     - argo-controller-0.0.4.tgz
     version: 0.0.4
-generated: "2025-02-25T22:41:29.735620629Z"
+generated: "2025-02-25T22:44:02.307755283Z"
